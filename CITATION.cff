@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Smithsonian Trinomial Search
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mackenzie
+    family-names: Edmonds
+    email: mackenziegedmonds@gmail.com
+    affiliation: Indiana University South Bend
+url: >-
+  https://opencontext.org/projects/0cea2f4a-84cb-4083-8c66-5191628abe67
+abstract: >-
+  Use to scrape Smithsonian Trinomials from datasets built
+  using the Constellate dataset builder. 
+keywords:
+  - text mining
+  - data extraction
+  - regular expressions
+license: CC-BY-4.0
+date-released: '2022-08-01'
