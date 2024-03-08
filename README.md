@@ -1,7 +1,7 @@
 # DINAATrinomialSearch
 
-To be paired with the instructions here: https://docs.google.com/document/d/e/2PACX-1vSR4XwrL1NV5jAi7by77VYhcrgl7h86lyhwCR2lq3UM-4m3rXFlB6idZ-wkrpWQZxqHutNduxu_t5Ok/pub
+To be paired with the instructions here: 
 
 Must have Jupyter Lab and Python to use. 
 
-This notebook is used to pull Smithsonian Trinomials from articles stored within Constellate's database. 
+These notebooks are used to pull Smithsonian Trinomials from articles stored within Constellate's database. One through searching and extracting unigrams and the other by searching and extracting Trinomials. Further details can be found in the commented sections of the Notebooks. 
