@@ -1,6 +1,6 @@
 # DINAATrinomialSearch
 
-To be paired with the instructions here: 
+To be paired with the instructions here: https://docs.google.com/document/d/e/2PACX-1vRj5U9UK3lJ-N0yohPEhm9KIb4NmjyIMwEOp53ku4RS-mLB3vP2CJfKnWpUs7tpQovkmw02VZcNdtVg/pub
 
 Must have Jupyter Lab and Python to use. 
 
